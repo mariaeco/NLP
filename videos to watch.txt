@@ -1,0 +1,29 @@
+VIDEOS PARA APRENDER MAIS:
+
+https://www.youtube.com/watch?v=4wuIOcD1LLI
+
+
+LSTM
+78.7% 
+0.8
+EMBED_LEN = 128
+HIDDEN_DIM = 32
+N_LAYERS = 2
+BATCH = 500
+
+80.4%,
+0.672%
+
+EMBED_LEN = 128
+HIDDEN_DIM = 32
+N_LAYERS = 2
+BATCH = 1000
+
+
+RRM-------------------------
+74%
+0.88
+EMBED_LEN = 128
+HIDDEN_DIM = 32
+N_LAYERS = 2
+BATCH = 1000
